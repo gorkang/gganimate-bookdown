@@ -1,0 +1,7 @@
+delete_merged_file: true
+
+rmd_subdir: FALSE
+
+rmd_files: [
+  "index.Rmd",
+  ]
